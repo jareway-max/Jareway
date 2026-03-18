@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/jareway-max/Jareway/refs/heads/main/vvv
+http://104.224.152.156:14436/down/tN7jONr28YOm.zip
